@@ -1,11 +1,11 @@
 import "./App.css";
-import ShoppingPhone from "./shopping-phone";
+import ShoesStore from "./shoe-store";
 
 function App() {
   return (
     <div>
       <h1>Baitap_reactjs_buoi27</h1>
-      <ShoppingPhone />
+      <ShoesStore />
     </div>
   );
 }
